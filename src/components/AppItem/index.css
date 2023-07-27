@@ -1,0 +1,21 @@
+.listEdit2 {
+  list-style-type: none;
+  height: 200px;
+  width: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.imgEdit {
+  height: 100px;
+  width: 100px;
+}
+
+.headEdit2 {
+  font-family: 'Bree Serif';
+  color: black;
+  font-size: 20px;
+}

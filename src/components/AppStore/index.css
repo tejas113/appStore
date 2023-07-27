@@ -1,0 +1,31 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.headEdit {
+  color: black;
+  font-size: 40px;
+  font-family: 'Bree Serif';
+}
+
+.inputEdit {
+  height: 40px;
+  width: 200px;
+}
+
+.tabBarEdit {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.appListContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
